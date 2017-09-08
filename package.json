@@ -1,0 +1,19 @@
+{
+  "name": "first-aid-skill",
+  "version": "1.0.0",
+  "description": "Simple skill that provides first aid advice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "howto",
+    "first aid"
+  ],
+  "author": "Jason Fong",
+  "dependencies": {
+    "alexa-sdk": "^1.0.13"
+  }
+}
