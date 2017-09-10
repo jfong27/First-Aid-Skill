@@ -1,9 +1,8 @@
 "use strict";
 
-'use strict';
-
 const Alexa = require('alexa-sdk');
 const advice = require('./advice');
+const acts = require('./action');
 
 
 const APP_ID = 'amzn1.ask.skill.98820a47-4974-4302-9ab6-8c17338ba5a9'; // TODO replace with your app ID (OPTIONAL).
@@ -12,7 +11,7 @@ const languageStrings = {
     'en': {
         translation: {
             ADVICE: advice.ADVICE_EN_US,
-            ACTIONS: advice.ACTIONS_EN_US,
+            ACTIONS: acts.ACTIONS_EN_US,
             SKILL_NAME: 'First Aid Advice',
             WELCOME_MESSAGE: "Welcome to %s. You can ask a question like, how do you treat a bee sting? ... Now, what can I help you with?",
             WELCOME_REPROMPT: 'For instructions on what you can say, please say help me.',
@@ -27,20 +26,20 @@ const languageStrings = {
             ADVICE_NOT_FOUND_REPROMPT: 'What else can I help with?',
             
             ACTION_NOT_FOUND_WITH_ITEM_NAME: 'how to perform %s. ',
-            ACTION_NOT_FOUND_WITHOUT_ITME_NAME: 'how to do that. '
+            ACTION_NOT_FOUND_WITHOUT_ITEM_NAME: 'how to do that. '
         },
     },
     'en-US': {
         translation: {
             ADVICE: advice.ADVICE_EN_US,
-            ACTIONS: advice.ACTIONS_EN_US,
+            ACTIONS: acts.ACTIONS_EN_US,
             SKILL_NAME: 'First Aid Advice'
         },
     },
     'en-GB': {
         translation: {
             ADVICE: advice.ADVICE_EN_US,
-            ACTIONS: advice.ACTIONS_EN_US,
+            ACTIONS: acts.ACTIONS_EN_US,
             SKILL_NAME: 'First Aid Advice'
         },
     }
