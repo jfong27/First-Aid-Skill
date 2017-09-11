@@ -1,21 +1,20 @@
 
 module.exports = {
    'ADVICE_EN_GB': {
-      'bee sting': 'apply ice or something',
-      'cut': 'bandage',
-      'burn' : 'somethin',
-      'acne': 'a',
-      'allergies': '',
-      'panic attack': '',
+      'bee sting': 'Scrape out the stinger with a credit card. Applying ice may provide some relief. Wash the sting site with soap and water. Taking an antihistamine such as claritin will reliev some itching and swelling. For serious allergic reactions, use an epinephrine pen as directed and seek immediate medical help.',
+      'cut': 'Apply direct pressure on area to stop bleeding. Clean the area with warm water and a gentle soap. Apply an antibiotic ointment and a sterile bandage. Seek medical help if bleeding does not stop, the cut is deep, the cut cannot be cleaned, or the cut is from an animal bite.',
+      'burn' : 'For minor burns, soak the wound in cool water for five minutes. Taking acetaminophen or ibuprofen may provide pain relief. Aloe vera gel or cream can be used to soothe the skin. Use an antibiotic ointment and loose gauze to protect the area. For serious burns, do not apply any ointments as they may prevent a doctor from properly assessing the burn. Do not apply ice as it may damage the skin tissue. Seek medical treatment.',
+      'acne': 'Use gentle cleansers and exfoliate your skin to keep your skin clean. Avoid clogging your pores with cosmetics and oily lotions. You may want to use over the counter medications such as benzoyl peroxide. If your skin does not clear up, you may want to have a discussion with your doctor about prescription medications such as accutane or clindamycin.',
+      'allergies': 'Know your allergy triggers, such as pollen or mold, and avoid them. When exposed to high amounts of your allergy triggers, wear a protective mask and or sunglasses. Antihistamines such as claritin or allegra can provide relief. Eye drops can help with itchy eyes. If these do not help, have a discussion with your doctor, he or she may recommend allergy shots, a long term solution that changes your immune system. ',
+      'panic attack': 'Take a deep breath. In and out. We are okay. Take a moment to just breathe and forget about everything. ... You may want to speak to a doctor or psychologist for a diagnosis and possily counseling. You are going to be all right. ',
       'anxiety': '',
-      'arthritis': '',
-      'asthma': '',
-      'autism': '',
-      'back pain': '',
-      'cancer': '',
-      'carpal tunnel syndrome': '',
-      'carpal tunnel': '',
-      'cold': '',
+      'arthritis': 'There are many methods of dealing with the symptoms of arthritis, including exercise, weight loss, heat pads, therapies, medications, and surgery. You should have a discussion with your doctor for the best way to treat your arthritis. ',
+      'asthma': 'If someone is having an asthma attack, sit the person down and have them attempt to take slow and steady breaths. Staying calm is very important, panicking will worsen things. Take one puff of your reliever inhaler every 30 to 60 seconds. Use 10 puffs at most. Call an ambulance if the situation does not get better. If the ambulance does not arrive within 15 minutes, take 10 more puffs of the inhaler.',
+      'autism': 'See a psychologist. Depending on each person, you may need different therapies. Love and support your child. ',
+      'back pain': 'Back pain may be a result of many possible ailments. Most lower back pain goes away on its own within two to four weeks. Drugs such as acetaminophen or ibuprofen can help relive pain. Aerobic exercise improves cardiovascular health and may lead to relief. See a doctor if you are worried. ',
+      'cancer': 'Treatments for cancer may include surgery, chemotherapy, and radiation therapy. I cannot help you much with this. Your doctor will be there for you. ',
+      'carpal tunnel syndrome': 'Treatment for carpal tunnel syndrome may include rest, ice, and wrist splints. In more serious cases, cortisone injections or surgery may be necessary. ',
+      'cold': 'Most people make a full recovery within two weeks without any treatment. Depending on the symptoms you experience, antihistamines, ibuprofen, oxymetazoline, and acetaminophen may relieve your suffering. Other treatments include throat lozenges, menthol, and nasal washing. ',
       'flu': '',
       'fever': '',
       'cough': '',
@@ -31,7 +30,6 @@ module.exports = {
       'heart attack': '',
       'heartburn': '',
       'irritable bowel syndrome': '',
-      'IBS': '',
       'kidney stone': '',
       'knee pain': '',
       'schizophrenia': '',
@@ -41,26 +39,13 @@ module.exports = {
       'lice': '',
       'sunburn': '',
       'sore throat': '',
-      
+
    },
    'ADVICE_EN_US': {
       'bee sting': 'apply ice or something',
       'cut': 'bandage',
       'asdfasd': 'aggg',
       'burn' : 'somethin',
-      'gum' : 'jan'
-   },
-   
-   'ACTIONS_EN_GB': {
-   	  'CPR': 'ah ah ah',
-   	  'heimlich maneuver': 'jj',
-   	  'aaa': 'bbb'
-   
-   },
-   'ACTIONS_EN_US': {
-   	  'CPR': 'ah ah ah',
-   	  'heimlich maneuver': 'jj',
-   	  'aaa': 'bbb'
-   
    }
+
 };
