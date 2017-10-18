@@ -38,8 +38,8 @@ module.exports = {
       'sprain': 'Treatment for a sprain consists of anti-inflammatory medications such as advil and tylenol along with rice. RICE stands for rest, ice, compression, and elevation. ',
       'lice': 'Before starting treatment, check everyone who has come into contact with the infected person for lice. Wash infected clothes and bedding in a washing machine with hot water. Dry the clothing with hot air on the highest setting. Treatment for lice includes medications that are applied to your hair and combed out with a special lice comb. ',
       'sunburn': 'Treatment for sunburn includes ice, aloe, moisturizers, and pain relieving medications. Prevent future sunburns with sunscreen and sun protective clothing. ',
-      'sore throat': 'Treatment for sore throats includes rest, drinking fluids, warm beverages, gargling with saltwater, humidifiers, and cough candies. I recommend warm tea with honey and lemon. '
-
+      'sore throat': 'Treatment for sore throats includes rest, drinking fluids, warm beverages, gargling with saltwater, humidifiers, and cough candies. I recommend warm tea with honey and lemon. ',
+      'headache': 'If your headache feels dull and achy, try taking an aspirin or ibuprofen pill. Other ways to treat a dull headache are meditation, massage, gentle neck stretches, or a warm shower. If you have a severe throbbing headache, you may have a migraine. Rest in a dark and quiet room. Apply hot or cold compresses to your head or neck, take over the counter medications such as ibuprofen or aspirin, massage your head and take small amounts of caffeine.'
    },
    'ADVICE_EN_US': {
       'bee sting': 'Scrape out the stinger with a credit card. Applying ice may provide some relief. Wash the sting site with soap and water. Taking an antihistamine such as claritin will reliev some itching and swelling. For serious allergic reactions, use an epinephrine pen as directed and seek immediate medical help.',
@@ -79,7 +79,8 @@ module.exports = {
       'sprain': 'Treatment for a sprain consists of anti-inflammatory medications such as advil and tylenol along with rice. RICE stands for rest, ice, compression, and elevation. ',
       'lice': 'Before starting treatment, check everyone who has come into contact with the infected person for lice. Wash infected clothes and bedding in a washing machine with hot water. Dry the clothing with hot air on the highest setting. Treatment for lice includes medications that are applied to your hair and combed out with a special lice comb. ',
       'sunburn': 'Treatment for sunburn includes ice, aloe, moisturizers, and pain relieving medications. Prevent future sunburns with sunscreen and sun protective clothing. ',
-      'sore throat': 'Treatment for sore throats includes rest, drinking fluids, warm beverages, gargling with saltwater, humidifiers, and cough candies. I recommend warm tea with honey and lemon. '
+      'sore throat': 'Treatment for sore throats includes rest, drinking fluids, warm beverages, gargling with saltwater, humidifiers, and cough candies. I recommend warm tea with honey and lemon. ',
+      'headache': 'If your headache feels dull and achy, try taking an aspirin or ibuprofen pill. Other ways to treat a dull headache are meditation, massage, gentle neck stretches, or a warm shower. If you have a severe throbbing headache, you may have a migraine. Rest in a dark and quiet room. Apply hot or cold compresses to your head or neck, take over the counter medications such as ibuprofen or aspirin, massage your head and take small amounts of caffeine.'
    },
    'ACTIONS_EN_GB': {
       'cpr': 'If you are not trained in CPR, provide hands-only CPR. Put the person on his back on a firm surface. Kneel by his neck and shoulders. Place the heel of one hand over the center of his chest between the nipples. Place your other hand on top of the first hand. Keep elbows straight and position shoulders directly above your hands. Use your upper body weight as you push straight down on the chest at least 2 inches but no more than 2.4. Push hard at a rate of 100 to 120 compressions a minute, like the song by the bee gees, staying alive. Call emergency services. ',
@@ -88,8 +89,8 @@ module.exports = {
    'ACTIONS_EN_US': {
       'cpr': 'If you are not trained in CPR, provide hands-only CPR. Put the person on his back on a firm surface. Kneel by his neck and shoulders. Place the heel of one hand over the center of his chest between the nipples. Place your other hand on top of the first hand. Keep elbows straight and position shoulders directly above your hands. Use your upper body weight as you push straight down on the chest at least 2 inches but no more than 2.4. Push hard at a rate of 100 to 120 compressions a minute, like the song by the bee gees, staying alive. Call emergency services. ',
       'heimlich maneuver': 'First, make sure the person is aware you will perform the maneuver. Stand behind the choker and wrap your arms around the waist of the choker. With one hand, make a fist. Wrap your other hand around your fist. Make a series of thrusts by pressing hard and quick into the abdomen. Pull inward and upward. It should feel like you are trying to lift the person off the ground. If this does not work, deliver a few blows to the back bewteen the shoulder blades with the heel of your hand. Call emergency services. '
-
    }
+
 
 
 };
